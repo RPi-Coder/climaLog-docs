@@ -1,2 +1,10 @@
-# climaLog2000-Schematics
-HW Schematics for the ClimaLog 2000 project.
+
+Change Log:
+
+Date:     ! Init:
+2016-0402 ! RPi-Coder
+
+gEDA Files:     .sym .sch
+Writer Files:   .odt
+
+
